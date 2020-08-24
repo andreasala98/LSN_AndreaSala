@@ -6,7 +6,7 @@ Questa repository contiene gli esercizi del Laboratorio di Simulazione Numerica 
 
 Le esercitazioni sono suddivise in cartelle, al cui interno sono presenti:
 
-- Jupyter Notebook `LSN_##_AS.ipynb` contente l'analisi dati e il commento agli esercizi
+- Jupyter Notebook `LSN_##_AS.ipynb` contenente l'analisi dati e il commento agli esercizi
 - Il codice degli esercizi suddiviso in file `.cpp` e `.h`
 - `Makefile` per compilare (`make`) ed eseguire (`make esegui`) il codice, o per eliminare i risultati delle simulazioni precedenti (`make clean`)
 - File di input per generare configurazioni iniziali e passare al codice parametri variabili
