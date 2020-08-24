@@ -1,0 +1,21 @@
+1
+0.8
+108
+1.1
+2.2
+0.0005
+500
+200
+1000
+1
+  
+  ReadInput >> phase; (1=S, 2=L, 3=G)
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nstep;
+  ReadInput >> nblk;
+  ReadInput >> iprint;
+  ReadInput >> Re_Start;
