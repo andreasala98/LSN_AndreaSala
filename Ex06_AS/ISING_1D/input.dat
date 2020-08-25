@@ -1,0 +1,17 @@
+2
+50
+1.0
+0.0
+0
+100
+10000
+0
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> m_or_g (1=Metro, 0=Gibbs);
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> ReStart (0=Random, 1=Old);
