@@ -10,5 +10,5 @@ Le esercitazioni sono suddivise in cartelle, al cui interno sono presenti:
 - Il codice degli esercizi suddiviso in file `.cpp` e `.h`
 - `Makefile` per compilare (`make`) ed eseguire (`make esegui`) il codice, o per eliminare i risultati delle simulazioni precedenti (`make clean`)
 - File di input per generare configurazioni iniziali e passare al codice parametri variabili
-- File di output per generare i grafici nelle relazioni. Per esercizi con elevato numero di file, essi sono stati posti in opportune sottocartelle (ad es. Results oppure solid/liquid/gas)
+- File di output per generare i grafici nelle relazioni. Per esercizi con elevato numero di file, essi sono stati posti in opportune sottocartelle (ad es. Results oppure solid/liquid/gas). In questi casi, per sovrascrivere i risultati è necessario generarli e poi spostarli nell'opportuna directory.
 - È inoltre presente una cartella `JUPYTER-NOTEBOOK` che raggruppa tutte le relazioni.
