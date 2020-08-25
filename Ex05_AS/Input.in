@@ -1,0 +1,25 @@
+-0.01
+0.01
+0.01
+
+
+1
+1
+
+
+
+
+
+
+
+ReadInput >> x0;
+ReadInput >> y0;
+ReadInput >> z0;
+
+ReadInput >> Orbital (1=1s, 2=2p)
+ReadInput >> Distribution type (0=Uniform, 1=Gaussian)
+
+
+Good empirical values for MetroStep (starting at -0.01, 0.01, 0.01):
+2.10 for Uniform 1s    0.76 for Gaussian 1s
+5.55 for Uniform 2p    2.03 for Gaussian 2p
