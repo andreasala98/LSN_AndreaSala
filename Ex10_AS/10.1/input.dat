@@ -1,0 +1,12 @@
+1
+32
+250
+100
+1000
+
+ReadInput >> shape (0=circle, 1=square)
+ReadInput >> N_cities
+ReadInput >> N_gen
+ReadInput >> Nsteps
+ReadInput >> InitialTemp
+    

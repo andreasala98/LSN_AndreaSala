@@ -1,0 +1,23 @@
+32
+100
+17000
+100
+
+0.12
+0.13
+0.15
+0.80
+0.39
+
+
+ReadInput >> N_cities
+ReadInput >> N_chromosomes
+ReadInput >> N_gen
+ReadInput >> N_migration
+
+
+ReadInput >> swap_mutation_prob
+ReadInput > shift_mutation_prob
+ReadInput >> reverse_mutation_prob
+ReadInput >> crossover_prob
+ReadInput >> elitary_prob
