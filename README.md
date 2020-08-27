@@ -12,3 +12,6 @@ Le esercitazioni sono suddivise in cartelle, al cui interno sono presenti:
 - File di input per generare configurazioni iniziali e passare al codice parametri variabili
 - File di output per generare i grafici nelle relazioni. Per esercizi con elevato numero di file, essi sono stati posti in opportune sottocartelle (ad es. Results oppure solid/liquid/gas). In questi casi, per sovrascrivere i risultati è necessario generarli e poi spostarli nell'opportuna directory.
 - È inoltre presente una cartella `JUPYTER-NOTEBOOKS` che raggruppa tutte le relazioni.
+
+
+Per problemi nel download o dubbi, contattatemi pure all'indirizzo andrea.sala98@gmail.com
